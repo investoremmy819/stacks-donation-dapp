@@ -22,7 +22,7 @@ function App() {
       contractName: 'donation',
       functionName: 'donate',
       functionArgs: [uintCV(1)],
-      network: 'mainnet',
+      network: 'testnet',
       onFinish: (data) => {
         alert('Transaction sent: ' + data.txId)
       }
