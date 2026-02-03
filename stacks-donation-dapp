@@ -1,0 +1,12 @@
+stacks-donation-dapp/
+├── contracts/
+│   └── donation.clar
+├── frontend/
+│   ├── package.json
+│   ├── vite.config.js
+│   ├── index.html
+│   └── src/
+│       ├── main.jsx
+│       ├── App.jsx
+│       └── wallet.js
+└── README.md
