@@ -18,7 +18,7 @@ function App() {
 
   const donate = async () => {
     const txOptions = {
-      contractAddress: 'ST_CONTRACT_ADDRESS',
+      contractAddress: 'STGSD314CJWGNB8ENZRKQTNFYDRHKBRF3S80BP0Q.donation',
       contractName: 'donation',
       functionName: 'donate',
       functionArgs: [uintCV(1)],
