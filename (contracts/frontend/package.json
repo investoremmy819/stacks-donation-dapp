@@ -107,4 +107,4 @@
     "build": "vite build"
   },
   "dependencies": {
-    "@stacks/con
+    "@stacks/co
