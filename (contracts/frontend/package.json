@@ -106,5 +106,5 @@
     "dev": "vite",
     "build": "vite build"
   },
-  "dependencies": {
+  "dependencies": 
     "
